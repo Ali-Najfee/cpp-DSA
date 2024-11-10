@@ -17,7 +17,7 @@ Each section introduces new concepts in a structured way, building on previous t
 ## 💻 Explore All CPP DSA Code 
 
 Browse the full collection of All C++ DSA Codes here:
-- **[View All C++ DSA Code]([https://github.com/Ali-Najfee/Javascript-projects/tree/main](https://github.com/Ali-Najfee/cpp-DSA))**
+- **[View All C++ DSA Code](https://github.com/Ali-Najfee/cpp-DSA)**
 
 ---
 
